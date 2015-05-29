@@ -12,11 +12,11 @@ You'll need:
 
 1. A BLE-enabled mbed board.
 
-2. A BLE capable smartphone / tablet. 
+2. A BLE capable smartphone or tablet. 
 
-3. Install the [Evothings Workbench on your PC and the Evothings app on your phone](http://evothings.com/download/).
+3. Install the [Evothings Workbench on your PC](http://evothings.com/download/).
 
-5. Install the Evothings Client Smartphone App. See here for [Android](https://play.google.com/store/apps/details?id=com.evothings.evothingsclient) or [iOS](https://itunes.apple.com/nz/app/evothings-client/id848974292?mt=8). 
+5. Install the Evothings Client smartphone app. See here for [Android](https://play.google.com/store/apps/details?id=com.evothings.evothingsclient) or [iOS](https://itunes.apple.com/nz/app/evothings-client/id848974292?mt=8). 
 
 <span style="background-color:lightgray; color:purple; display:block; height:100%; padding:10px">
 For more information about Evothings, see their [Quick Start Guide](http://evothings.com/getting-started-with-evothings-studio-in-90-seconds/), [tutorials](http://evothings.com/doc/studio/tutorials.html) and [BLE API reference](http://evothings.com/doc/plugins/com.evothings.ble/com.evothings.module_ble.html).
@@ -241,9 +241,9 @@ The service we created and put on our board is interactive: we can read the LED'
 
 To run the app:
 
-1. Make sure you've installed the Evothings Workbench on your computer and the Evothings client on your phone.
+1. Make sure you've installed the Evothings workbench on your computer and the Evothings client on your phone.
 
-2. Connect the Workbench on your computer to the Client on your smartphone (point it at the right IP Address)
+2. Connect the workbench on your computer to the client on your smartphone (it will ask you to provide the computer's IP).
 
 3. Click **RUN** on the "mbed Evothings GATT" program on the workbench.
 

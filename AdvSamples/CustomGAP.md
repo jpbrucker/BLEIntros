@@ -14,7 +14,7 @@ You'll need:
 
 2. Install the [Evothings Workbench on your PC and the Evothings app on your phone](http://evothings.com/download/).
 
-3. A Tablet / SmartPhone with BLE. 
+3. A tablet or smartphone with BLE. 
 
 4. The [LightBlue iOS](https://itunes.apple.com/us/app/lightblue-bluetooth-low-energy/id557428110?mt=8) app or the [nRF Master Control Panel Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=en) app to view the results.
 
@@ -167,9 +167,9 @@ We've created an Evothings GAP smartphone example that works with the embedded m
 
 To run the app:
 
-1. Make sure you've installed the Evothings Workbench on your computer and the Evothings client on your phone.
+1. Make sure you've installed the Evothings workbench on your computer and the Evothings client on your phone.
 
-2. Connect the Workbench on your computer to the Client on your smartphone (point it at the right IP Address)
+2. Connect the workbench on your computer to the client on your smartphone (it will ask you to provide the computer's IP).
 
 3. Click **RUN** on the "mbed Evothings GAP" program on the workbench.
 
